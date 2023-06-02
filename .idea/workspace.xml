@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f23a45c6-9050-42cc-8674-3caf19fbcbd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NomeIncorretoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedesSociais/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedesSociais/GooglePlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedesSociais/Instagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedesSociais/Interfaces/Compartilhamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedesSociais/Interfaces/VideoConferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedesSociais/RedeSocial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedesSociais/Twitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Usuario/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +67,8 @@
       <updated>1685054532913</updated>
       <workItem from="1685054535726" duration="5126000" />
       <workItem from="1685145096127" duration="1535000" />
-      <workItem from="1685147513624" duration="4171000" />
+      <workItem from="1685147513624" duration="4484000" />
+      <workItem from="1685486375766" duration="20000" />
     </task>
     <servers />
   </component>
